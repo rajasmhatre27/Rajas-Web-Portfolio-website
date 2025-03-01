@@ -114,7 +114,7 @@ const Hero = () => {
           I'm
           <span className="mx-1"></span> {/* Space between "I'm" and "Rajas Mhatre" */}
           <span className="relative text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-purple-500">
-            Rajas Mhatre...
+            Rajas Mhatre....
           </span>
           <span className={`text-white ${cursorVisible ? "opacity-100" : "opacity-0"}`}>|</span> {/* Blinking cursor */}
 ,<span className="block sm:inline"> Full-Stack Developer</span>
